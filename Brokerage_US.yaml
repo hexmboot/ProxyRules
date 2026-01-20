@@ -1,0 +1,10 @@
+payload:
+  - '+.firstrade.com'          # 第一证券
+  - '+.tradingview.com'        # TradingView
+  - '+.interactivebrokers.com.hk'     # IBKR  
+  - '+.interactivebrokers.com.cn'     # IBKR  
+  - '+.interactivebrokers.com'        # IBKR
+  - '+.schwab.com'                    # 嘉信理财
+  - '+.schwabmail.com'                # 嘉信理财
+  - '+.schwabadvisorcenter.com'       # 嘉信理财
+  
