@@ -1,11 +1,7 @@
 payload:
-  - '::/127'
-  - 'fc00::/7'
-  - 'fe80::/10'
-  - 'ff00::/8'
-  - '2002::/16,DIRECT
-  - '2001:db8::/32,DIRECT
-  - '2001::/32,DIRECT
-  - '2001:20::/28,DIRECT
-  - '::1/128,DIRECT,no-resolve
-  - 'fd00::/8,DIRECT,no-resolve
+  - '::1/128'        # Loopback
+  - 'fc00::/7'       # Unique Local Address (涵盖了 fd00::/8)
+  - 'fe80::/10'      # Link-Local
+  - 'ff00::/8'       # Multicast
+  - '2001::/32'      # Teredo/Fixed (涵盖了 2001:db8 和 2001:20)
+  - '2002::/16'      # 6to4 Relay
