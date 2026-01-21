@@ -1,0 +1,11 @@
+payload:
+  - '::/127'
+  - 'fc00::/7'
+  - 'fe80::/10'
+  - 'ff00::/8'
+  - '2002::/16,DIRECT
+  - '2001:db8::/32,DIRECT
+  - '2001::/32,DIRECT
+  - '2001:20::/28,DIRECT
+  - '::1/128,DIRECT,no-resolve
+  - 'fd00::/8,DIRECT,no-resolve
