@@ -1,0 +1,11 @@
+payload:
+  - '+.bit.com'            #bit
+  - '+.bitexch.io'         #bit
+  - '+.binance.com'        #币安
+  - '+.okx.com'            #okx
+  - '+.bybit.com'          #bybit
+  - '+.bitget.com'         #bitget
+  - '+.huobi.com'          #火币
+  - '+.coinbase.com'       #coinbase USDC
+  - '+.tether.to'          #Tether token USDT
+  - '+.fastbull.com'       # 快牛
