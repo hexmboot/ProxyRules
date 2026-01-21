@@ -1,8 +1,11 @@
 payload:
   - '+.ippure.com'
-  - '+.browserscan.net'
   - '+.browserleaks.com'
+
+  # 测 微信
+  - '+.browserscan.net'
   - '+.dnsleaktest.com'
+  
   - '+.db-ip.com'
   - '+.freegeoip.app'
   - '+.freegeoip.net'
