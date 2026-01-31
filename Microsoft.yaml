@@ -12,3 +12,4 @@ payload:
   - '+.windows.net'
   - '+.live.com'
   - '+.outlook.com'
+  - PROCESS-NAME,Copilot
