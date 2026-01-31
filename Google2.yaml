@@ -1,39 +1,38 @@
 payload:
   #Google AI
-  - '+.gemini.google.com,🔰 谷歌
-  - '+.gemini-pro.google.com,🔰 谷歌
-  - '+.ai.google,🔰 谷歌
-  - '+.cloud.google.com,🔰 谷歌
-  - '+.notebooklm.google.com,🔰 谷歌
+  - '+.gemini.google.com'
+  - '+.gemini-pro.google.com'
+  - '+.ai.google'
+  - '+.cloud.google.com'
+  - '+.notebooklm.google.com'
 
   #Antigravity
-  - '+.antigravity.google,🔰 谷歌
-  - PROCESS-NAME,Antigravity,🔰 谷歌
-  - PROCESS-NAME,Antigravity Helper,🔰 谷歌
-  - PROCESS-NAME,language_server_macos_x64,🔰 谷歌
-  - PROCESS-NAME,language_server_macos_arm,🔰 谷歌
-  - PROCESS-NAME,Electron,🔰 谷歌
+  - '+.antigravity.google'
+  - PROCESS-NAME,Antigravity'
+  - PROCESS-NAME,Antigravity Helper'
+  - PROCESS-NAME,language_server_macos_x64'
+  - PROCESS-NAME,language_server_macos_arm'
+  - PROCESS-NAME,Electron'
 
   #Google
-  - '+.googletraveladservices.com,🔰 谷歌
-  - '+.2mdn.net,🔰 谷歌
-  - '+.app-measurement.com,🔰 谷歌
-  - '+.clickserve.dartsearch.net,🔰 谷歌
-  - '+.crl.pki.goog,🔰 谷歌
-  - '+.googletagmanager.com,🔰 谷歌
-  - '+.googletagservices.com,🔰 谷歌
-  - '+.gtm.oasisfeng.com,🔰 谷歌
-  - '+.ocsp.pki.goog,🔰 谷歌
-  - '+.recaptcha.net,🔰 谷歌
-  - '+.settings.crashlytics.com,🔰 谷歌
-  - '+.google.com,🔰 谷歌
-  - '+.gstatic.com,🔰 谷歌
-  - '+.google.dev,🔰 谷歌
-  - '+.googleapis.com,🔰 谷歌
-  - '+.gmail.com,🔰 谷歌
-  - '+.googleusercontent.com,🔰 谷歌
-  - '+.google.com,🔰 谷歌
-  - '+.google,🔰 谷歌
-  - RULE-SET,google,🔰 谷歌
-  - IP-CIDR,8.8.8.8/32,🔰 谷歌
-  - IP-CIDR,8.8.4.4/32,🔰 谷歌
+  - '+.googletraveladservices.com'
+  - '+.2mdn.net'
+  - '+.app-measurement.com'
+  - '+.clickserve.dartsearch.net'
+  - '+.crl.pki.goog'
+  - '+.googletagmanager.com'
+  - '+.googletagservices.com'
+  - '+.gtm.oasisfeng.com'
+  - '+.ocsp.pki.goog'
+  - '+.recaptcha.net'
+  - '+.settings.crashlytics.com'
+  - '+.google.com'
+  - '+.gstatic.com'
+  - '+.google.dev'
+  - '+.googleapis.com'
+  - '+.gmail.com'
+  - '+.googleusercontent.com'
+  - '+.google.com'
+  - '+.google'
+  - IP-CIDR,8.8.8.8/32
+  - IP-CIDR,8.8.4.4/32
