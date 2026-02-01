@@ -1,65 +1,63 @@
 payload:
   # === Microsoft 主域 ===
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,microsoft.net
-  - DOMAIN-SUFFIX,microsoft365.com
-  - DOMAIN-SUFFIX,aka.ms
+  - '+.microsoft.com'
+  - '+.microsoft.net'
+  - '+.microsoft365.com'
+  - '+.aka.ms'
 
   # === Office / Outlook / OneDrive ===
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,office365.com
-  - DOMAIN-SUFFIX,outlook.com
-  - DOMAIN-SUFFIX,outlook.cn
-  - DOMAIN-SUFFIX,passport.net
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,1drv.com
-  - DOMAIN-SUFFIX,onenote.com
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,sharepointonline.com
+  - '+.office.com'
+  - '+.office365.com'
+  - '+.outlook.com'
+  - '+.outlook.cn'
+  - '+.passport.net'
+  - '+.onedrive.com'
+  - '+.1drv.com
+  - '+.onenote.com'
+  - '+.sharepoint.com'
+  - '+.sharepointonline.com'
 
   # === Bing / Edge / MSN / Copilot ===
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bing.net
-  - DOMAIN-SUFFIX,bingads.com
-  - DOMAIN-SUFFIX,bingapis.com
-  - DOMAIN-SUFFIX,bingtranslator.com
-  - DOMAIN-SUFFIX,msn.com
-  - DOMAIN-SUFFIX,microsoftedge.com
-  - DOMAIN,edge.activity.windows.com
-  - DOMAIN,copilot.microsoft.com
+  - '+.bing.com'
+  - '+.bing.net'
+  - '+.bingads.com'
+  - '+.bingapis.com'
+  - '+.bingtranslator.com'
+  - '+.msn.com'
+  - '+.microsoftedge.com'
 
   # === Azure / Cloud ===
-  - DOMAIN-SUFFIX,azure.com
-  - DOMAIN-SUFFIX,azure.cn
-  - DOMAIN-SUFFIX,azure.net
-  - DOMAIN-SUFFIX,azureedge.net
-  - DOMAIN-SUFFIX,azurefd.net
-  - DOMAIN-SUFFIX,azurewebsites.net
-  - DOMAIN-SUFFIX,azureiotcentral.com
-  - DOMAIN-SUFFIX,azurecosmos.net
-  - DOMAIN-SUFFIX,microsoftcloud.com
+  - '+.azure.com'
+  - '+.azure.cn'
+  - '+.azure.net'
+  - '+.azureedge.net'
+  - '+.azurefd.net'
+  - '+.azurewebsites.net'
+  - '+.azureiotcentral.com'
+  - '+.azurecosmos.net'
+  - '+.microsoftcloud.com'
 
   # === Windows / Update ===
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,windows.net
-  - DOMAIN-SUFFIX,windowsazure.com
-  - DOMAIN-SUFFIX,windowsupdate.com
-  - DOMAIN-SUFFIX,windowslive.cn
+  - '+.windows.com'
+  - '+.windows.net'
+  - '+.windowsazure.com'
+  - '+.windowsupdate.com'
+  - '+.windowslive.cn'
 
   # === Xbox / Gaming ===
-  - DOMAIN-SUFFIX,xbox.com
-  - DOMAIN-SUFFIX,xboxlive.com
-  - DOMAIN-SUFFIX,xboxgamepass.com
-  - DOMAIN-SUFFIX,xboxgamestudios.com
-  - DOMAIN-SUFFIX,xboxservices.com
+  - '+.xbox.com'
+  - '+.xboxlive.com'
+  - '+.xboxgamepass.com'
+  - '+.xboxgamestudios.com'
+  - '+.xboxservices.com'
 
   # === 开发者 / VS / MSDN ===
-  - DOMAIN-SUFFIX,visualstudio.com
-  - DOMAIN-SUFFIX,visualstudio.net
-  - DOMAIN-SUFFIX,vscode.dev
-  - DOMAIN-SUFFIX,vscode-cdn.net
-  - DOMAIN-SUFFIX,vscode-unpkg.net
-  - DOMAIN-SUFFIX,vscode-webview.net
-  - DOMAIN-SUFFIX,msdn.com
-  - DOMAIN-SUFFIX,msecnd.net
-  - DOMAIN-SUFFIX,nuget.org
+  - '+.visualstudio.com'
+  - '+.visualstudio.net'
+  - '+.vscode.dev'
+  - '+.vscode-cdn.net'
+  - '+.vscode-unpkg.net'
+  - '+.vscode-webview.net'
+  - '+.msdn.com'
+  - '+.msecnd.net'
+  - '+.nuget.org'
