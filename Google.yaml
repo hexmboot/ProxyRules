@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,goog
   - IP-CIDR,8.8.8.8/32
   - IP-CIDR,8.8.4.4/32
+  - IP-CIDR,64.233.187.188/32
   - DOMAIN-SUFFIX,antigravity.google
   - DOMAIN-SUFFIX,googletraveladservices.com
   - DOMAIN-SUFFIX,2mdn.net
