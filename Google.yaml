@@ -8,6 +8,8 @@ payload:
 
   #Antigravity
   - '+.antigravity.google'
+  - '+.antigravity-auto-updater-974169037036.us-central1.run.app'
+  - '+ai.immersivetranslate.com'
 
   #Google
   - '+.googletraveladservices.com'
