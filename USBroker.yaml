@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN-SUFFIX,firstrade.com
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,interactivebrokers.com.hk
+  - DOMAIN-SUFFIX,interactivebrokers.com.cn
+  - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,schwab.com
+  - DOMAIN-SUFFIX,schwabmail.com
+  - DOMAIN-SUFFIX,schwabadvisorcenter.com
