@@ -1,54 +1,28 @@
 payload:
-  - DOMAIN-SUFFIX,mzstatic.com
-  - DOMAIN-SUFFIX,apple.com.akadns.net
-  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple-icloud.cn
   - DOMAIN-SUFFIX,apple-mapkit.com
+  # Apple 主站
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple.com.cn
+  - DOMAIN-SUFFIX,icloudo.com
+  - DOMAIN-SUFFIX,apple.com.akadns.net
+  - DOMAIN-SUFFIX,appleicloud.cn
+  - DOMAIN-SUFFIX,applemx-icloud.com
   - DOMAIN-SUFFIX,cds-cdn.v.aaplimg.com
-  - DOMAIN-SUFFIX,origin-apple.com.akadns.net
-  - DOMAIN-SUFFIX,cn-smp-paymentservices.apple.com
   - DOMAIN-SUFFIX,cstat.cdn-apple.com
   - DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,gspe19-2-cn-ssl.ls-apple.com.akadns.net
   - DOMAIN-SUFFIX,gspe19-cn.ls-apple.com.akadns.net
   - DOMAIN-SUFFIX,guzzoni-apple-com.v.aaplimg.com
+  - DOMAIN-SUFFIX,icloud-apple.cn
   - DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net
-  - DOMAIN-SUFFIX,icloud.cdn-apple.com
-  - DOMAIN-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net
-  - DOMAIN-SUFFIX,push-apple.com.akadns.net
-  - DOMAIN-SUFFIX,init-s01st.push.apple.com
-  - DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
-  - DOMAIN-SUFFIX,iphone-ld.origin-apple.com.akadns.net
-  - DOMAIN-SUFFIX,itunes-apple.com.akadns.net
-  - DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
-  - DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
-  - DOMAIN-SUFFIX,ml.cdn-apple.com
-  - DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
-  - DOMAIN-SUFFIX,ocsp2-lb.apple.com.akadns.net
-  - DOMAIN-SUFFIX,oscdn.origin-apple.com.akadns.net
-  - DOMAIN-SUFFIX,osxapps.itunes.g.aaplimg.com
-  - DOMAIN-SUFFIX,pancake.cdn-apple.com.akadns.net
-  - DOMAIN-SUFFIX,prod-support.apple-support.akadns.net
-  - DOMAIN-SUFFIX,stocks-sparkline-lb.apple.com.akadns.net
-  - DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
-  - DOMAIN-SUFFIX,store.apple.com.edgekey.net
-  - DOMAIN-SUFFIX,store.storeimages.apple.com.akadns.net
-  - DOMAIN-SUFFIX,support-china.apple-support.akadns.net
-  - DOMAIN-SUFFIX,swallow-apple-com.v.aaplimg.com
-  - DOMAIN-SUFFIX,swcatalog-cdn.apple.com.akadns.net
-  - DOMAIN-SUFFIX,swcdn.g.aaplimg.com
-  - DOMAIN-SUFFIX,swdist.apple.com.akadns.net
-  - DOMAIN-SUFFIX,swscan-cdn.apple.com.akadns.net
-  - DOMAIN-SUFFIX,updates-http.cdn-apple.com.akadns.net
-  - DOMAIN-SUFFIX,valid.origin-apple.com.akadns.net
-  - DOMAIN-SUFFIX,weather-data.apple.com.akadns.net
-  - DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
-  - DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
-  - DOMAIN-SUFFIX,applemx-icloud.com
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud-sandbox.com
+  - DOMAIN-SUFFIX,icloud.cdn-apple.com
   - DOMAIN-SUFFIX,icloud.ch
   - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud.com.cn
   - DOMAIN-SUFFIX,icloud.de
   - DOMAIN-SUFFIX,icloud.ee
   - DOMAIN-SUFFIX,icloud.fi
@@ -58,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,icloud.is
   - DOMAIN-SUFFIX,icloud.jp
   - DOMAIN-SUFFIX,icloud.lv
+  - DOMAIN-SUFFIX,icloud.net.cn
   - DOMAIN-SUFFIX,icloud.om
   - DOMAIN-SUFFIX,icloud.org
   - DOMAIN-SUFFIX,icloud.pt
@@ -67,6 +42,7 @@ payload:
   - DOMAIN-SUFFIX,icloud.sk
   - DOMAIN-SUFFIX,icloud.vn
   - DOMAIN-SUFFIX,icloudads.net
+  - DOMAIN-SUFFIX,icloudapple.cn
   - DOMAIN-SUFFIX,icloudbox.net
   - DOMAIN-SUFFIX,icloudbrowser.net
   - DOMAIN-SUFFIX,icloude.com
@@ -74,22 +50,34 @@ payload:
   - DOMAIN-SUFFIX,icloudmail.net
   - DOMAIN-SUFFIX,icloudmusic.net
   - DOMAIN-SUFFIX,icloudnet.net
-  - DOMAIN-SUFFIX,icloudpay.net
-  - DOMAIN-SUFFIX,icloudo.com
+
   - DOMAIN-SUFFIX,icloudo.de
   - DOMAIN-SUFFIX,icloudo.net
   - DOMAIN-SUFFIX,icloudos.de
   - DOMAIN-SUFFIX,icloudos.net
+  - DOMAIN-SUFFIX,icloudpay.net
   - DOMAIN-SUFFIX,icloudsecure.net
   - DOMAIN-SUFFIX,icloudsetup.com
+  - DOMAIN-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,ios-icloud.com
+  - DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
+  - DOMAIN-SUFFIX,itunes-apple.com.akadns.net
   - DOMAIN-SUFFIX,me.com
+  - DOMAIN-SUFFIX,ml.cdn-apple.com
   - DOMAIN-SUFFIX,myicloud.net
   - DOMAIN-SUFFIX,mylcloud.net
+  - DOMAIN-SUFFIX,mzstatic.com
+  - DOMAIN-SUFFIX,origin-apple.com.akadns.net
+  - DOMAIN-SUFFIX,osxapps.itunes.g.aaplimg.com
+  - DOMAIN-SUFFIX,pancake.cdn-apple.com.akadns.net
+  - DOMAIN-SUFFIX,prod-support.apple-support.akadns.net
+  - DOMAIN-SUFFIX,push-apple.com.akadns.net
+  - DOMAIN-SUFFIX,store.apple.com.edgekey.net
+  - DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
+  - DOMAIN-SUFFIX,support-china.apple-support.akadns.net
+  - DOMAIN-SUFFIX,swallow-apple-com.v.aaplimg.com
+  - DOMAIN-SUFFIX,swcdn.g.aaplimg.com
+  - DOMAIN-SUFFIX,updates-http.cdn-apple.com.akadns.net
+  - DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
+  - DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,wwwicloud.com
-  - DOMAIN-SUFFIX,apple-icloud.cn
-  - DOMAIN-SUFFIX,appleicloud.cn
-  - DOMAIN-SUFFIX,icloud-apple.cn
-  - DOMAIN-SUFFIX,icloud.com.cn
-  - DOMAIN-SUFFIX,icloud.net.cn
-  - DOMAIN-SUFFIX,icloudapple.cn
