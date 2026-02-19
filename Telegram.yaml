@@ -21,4 +21,5 @@ payload:
   - DOMAIN-SUFFIX,telegra.ph
   - DOMAIN-SUFFIX,telegram.me
   - DOMAIN-SUFFIX,telegram.org
-  - DOMAIN-SUFFIX,telesco.pe   
+  - DOMAIN-SUFFIX,api.telegram.org
+  - DOMAIN-SUFFIX,telesco.pe

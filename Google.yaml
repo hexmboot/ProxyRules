@@ -9,6 +9,7 @@ payload:
   - IP-CIDR,8.8.4.4/32
   - IP-CIDR,64.233.187.188/32
   - IP-CIDR,64.233.160.0/19
+  - IP-CIDR,108.177.125.188/32
   # --- Antigravity ---
   - DOMAIN-KEYWORD,antigravity
   - DOMAIN-SUFFIX,antigravity-auto-updater-974169037036.us-central1.run.app
