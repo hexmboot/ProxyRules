@@ -1,3 +1,6 @@
 payload:
   # 华视影院
   - DOMAIN-SUFFIX,huavod.com
+  - DOMAIN-SUFFIX,okhuaren.com
+  # 华人直播
+  - DOMAIN-SUFFIX,huaren.live
