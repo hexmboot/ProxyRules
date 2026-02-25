@@ -1,4 +1,16 @@
 payload:
+  # 券商
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,longbridge.com
+  - DOMAIN-SUFFIX,firstrade.com
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,interactivebrokers.com.hk
+  - DOMAIN-SUFFIX,interactivebrokers.com.cn
+  - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,schwab.com
+  - DOMAIN-SUFFIX,schwabmail.com
+  - DOMAIN-SUFFIX,schwabadvisorcenter.com  
+  # 银行
   - DOMAIN-SUFFIX,hsbc.com.hk
   - DOMAIN-SUFFIX,bochk.com
   - DOMAIN-SUFFIX,bankofchina.com.hk
