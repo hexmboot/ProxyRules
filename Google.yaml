@@ -1,5 +1,4 @@
 payload:
-payload:
   # --- 核心域名 ---
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,google.dev
