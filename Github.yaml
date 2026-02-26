@@ -1,7 +1,7 @@
 payload:
-  - '+.github.com'
-  - '+.githubusercontent.com'
-  - '+.githubassets.com'
-  - '+.github.io'
-  - '+.githubapp.com'
-  - '+.githubcopilot.com'
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubcopilot.com
