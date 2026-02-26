@@ -1,63 +1,87 @@
 payload:
   # === Microsoft 主域 ===
-  - '+.microsoft.com'
-  - '+.microsoft.net'
-  - '+.microsoft365.com'
-  - '+.aka.ms'
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,microsoft.net
+  - DOMAIN-SUFFIX,microsoft365.com
+  - DOMAIN-SUFFIX,aka.ms
 
   # === Office / Outlook / OneDrive ===
-  - '+.office.com'
-  - '+.office365.com'
-  - '+.outlook.com'
-  - '+.outlook.cn'
-  - '+.passport.net'
-  - '+.onedrive.com'
-  - '+.1drv.com
-  - '+.onenote.com'
-  - '+.sharepoint.com'
-  - '+.sharepointonline.com'
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,outlook.cn
+  - DOMAIN-SUFFIX,passport.net
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,sharepointonline.com
 
   # === Bing / Edge / MSN / Copilot ===
-  - '+.bing.com'
-  - '+.bing.net'
-  - '+.bingads.com'
-  - '+.bingapis.com'
-  - '+.bingtranslator.com'
-  - '+.msn.com'
-  - '+.microsoftedge.com'
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bingads.com
+  - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,bingtranslator.com
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,microsoftedge.com
 
   # === Azure / Cloud ===
-  - '+.azure.com'
-  - '+.azure.cn'
-  - '+.azure.net'
-  - '+.azureedge.net'
-  - '+.azurefd.net'
-  - '+.azurewebsites.net'
-  - '+.azureiotcentral.com'
-  - '+.azurecosmos.net'
-  - '+.microsoftcloud.com'
+  - DOMAIN-SUFFIX,azure.com
+  - DOMAIN-SUFFIX,azure.cn
+  - DOMAIN-SUFFIX,azure.net
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azurefd.net
+  - DOMAIN-SUFFIX,azurewebsites.net
+  - DOMAIN-SUFFIX,azureiotcentral.com
+  - DOMAIN-SUFFIX,azurecosmos.net
+  - DOMAIN-SUFFIX,microsoftcloud.com
 
   # === Windows / Update ===
-  - '+.windows.com'
-  - '+.windows.net'
-  - '+.windowsazure.com'
-  - '+.windowsupdate.com'
-  - '+.windowslive.cn'
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,windowsazure.com
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,windowslive.cn
 
   # === Xbox / Gaming ===
-  - '+.xbox.com'
-  - '+.xboxlive.com'
-  - '+.xboxgamepass.com'
-  - '+.xboxgamestudios.com'
-  - '+.xboxservices.com'
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,xboxgamepass.com
+  - DOMAIN-SUFFIX,xboxgamestudios.com
+  - DOMAIN-SUFFIX,xboxservices.com
 
   # === 开发者 / VS / MSDN ===
-  - '+.visualstudio.com'
-  - '+.visualstudio.net'
-  - '+.vscode.dev'
-  - '+.vscode-cdn.net'
-  - '+.vscode-unpkg.net'
-  - '+.vscode-webview.net'
-  - '+.msdn.com'
-  - '+.msecnd.net'
-  - '+.nuget.org'
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,visualstudio.net
+  - DOMAIN-SUFFIX,vscode.dev
+  - DOMAIN-SUFFIX,vscode-cdn.net
+  - DOMAIN-SUFFIX,vscode-unpkg.net
+  - DOMAIN-SUFFIX,vscode-webview.net
+  - DOMAIN-SUFFIX,msdn.com
+  - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,nuget.org
+  
+    # === OpenAI / ChatGPT ===
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN,openai-api.arkoselabs.com
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN,production-openaicom-storage.azureedge.net
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,openaicom.imgix.net
+  - DOMAIN-KEYWORD,openaicom-api
+  
+  # === 第三方依赖服务 ===
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,host.livekit.cloud
+  - DOMAIN-SUFFIX,turn.livekit.cloud
