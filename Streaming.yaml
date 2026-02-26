@@ -5,3 +5,7 @@ payload:
   # 华人直播
   - DOMAIN-SUFFIX,huaren.live
   - DOMAIN-SUFFIX,huarenlivewebsite.top
+  # netflix test
+  - DOMAIN-SUFFIX,fast.com
+  # netflix
+  - DOMAIN-SUFFIX,netflix.com
