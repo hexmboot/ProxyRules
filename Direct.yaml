@@ -167,8 +167,10 @@ payload:
   - DOMAIN-SUFFIX,ye.dun.163yun.com
   - DOMAIN-SUFFIX,zhihu.com
   # not CN Domain（未被墙的海外域名走直连）
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,unpkg.com
   # CN IP(面板开启区域绕过大陆之后的漏网之鱼)
-  
+
   # 腾讯云
   - IP-CIDR,43.160.156.23/32
   - IP-CIDR,43.160.156.172/32
