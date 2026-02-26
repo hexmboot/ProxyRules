@@ -9,7 +9,8 @@ payload:
   - DOMAIN-SUFFIX,interactivebrokers.com
   - DOMAIN-SUFFIX,schwab.com
   - DOMAIN-SUFFIX,schwabmail.com
-  - DOMAIN-SUFFIX,schwabadvisorcenter.com  
+  - DOMAIN-SUFFIX,schwabadvisorcenter.com
+  - DOMAIN-SUFFIX,fastbull.com
   # 银行
   - DOMAIN-SUFFIX,hsbc.com.hk
   - DOMAIN-SUFFIX,bochk.com
