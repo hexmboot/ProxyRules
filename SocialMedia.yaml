@@ -6,3 +6,10 @@ payload:
   # Meta
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,instagram.com
+
+  # pornhub
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,phncdn.com
+  
+  #xvideo
+  - DOMAIN-SUFFIX,xvideo.com
