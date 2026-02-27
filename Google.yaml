@@ -125,3 +125,6 @@ payload:
   - DOMAIN-SUFFIX,www.destinationurl.com
   - DOMAIN-SUFFIX,www.pxcc.com
   - DOMAIN-SUFFIX,xn--flw351e.com
+
+  # google with fastly
+  - DOMAIN-SUFFIX,google-ohttp-relay-safebrowsing.fastly-edge.com
