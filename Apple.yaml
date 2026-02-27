@@ -18,19 +18,19 @@ payload:
 
   # akadns.net for Apple CDN
   - DOMAIN-SUFFIX,apple.com.akadns.net
+  - DOMAIN-SUFFIX,me.com.akadns.net
   - DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,gspe19-2-cn-ssl.ls-apple.com.akadns.net
   - DOMAIN-SUFFIX,gspe19-cn.ls-apple.com.akadns.net
   - DOMAIN-SUFFIX,icloud-cdn.icloud.com.akadns.net 
   - DOMAIN-SUFFIX,itunes-apple.com.akadns.net 
-  - DOMAIN-SUFFIX,pancake.cdn-apple.com.akadns.net
+  - DOMAIN-SUFFIX,cdn-apple.com.akadns.net
   - DOMAIN-SUFFIX,prod-support.apple-support.akadns.net
   - DOMAIN-SUFFIX,push-apple.com.akadns.net
   - DOMAIN-SUFFIX,origin-apple.com.akadns.net
   - DOMAIN-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,support-china.apple-support.akadns.net
-  - DOMAIN-SUFFIX,updates-http.cdn-apple.com.akadns.net
   - DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
 
