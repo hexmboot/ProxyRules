@@ -1,3 +1,2 @@
 payload:
-  - '+.fast.com'            #netflix test
-  - '+.netflix.com'         #netflix
+  - DOMAIN_SUFFIX,claude.ai
