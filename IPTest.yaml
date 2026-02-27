@@ -1,11 +1,9 @@
 payload:
+
   - DOMAIN-SUFFIX,ippure.com
   - DOMAIN-SUFFIX,browserleaks.com
-
-  # 测 微信
   - DOMAIN-SUFFIX,browserscan.net
   - DOMAIN-SUFFIX,dnsleaktest.com
-  
   - DOMAIN-SUFFIX,db-ip.com
   - DOMAIN-SUFFIX,freegeoip.app
   - DOMAIN-SUFFIX,freegeoip.net
