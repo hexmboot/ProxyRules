@@ -4,9 +4,21 @@ payload:
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twimg.com
   # Meta
+   - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,fb.com
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,instagram.com
-
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,messenger.com
+  - DOMAIN-SUFFIX,Threads.com
+  - DOMAIN-SUFFIX,Threads.net
+  - DOMAIN-SUFFIX,facebookmail.com
+  - DOMAIN-SUFFIX,metamail.com
+  
+  # reddit
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditmedia.com
+  
   # pornhub
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-SUFFIX,phncdn.com
