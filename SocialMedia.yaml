@@ -1,4 +1,8 @@
 payload:
+  # X
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,twimg.com
+  # Meta
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,instagram.com
