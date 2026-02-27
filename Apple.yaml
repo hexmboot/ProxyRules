@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,apple
+  - DOMAIN-SUFFIX,apple.cn  
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.com.cn
   - DOMAIN-SUFFIX,www.apple.com.cn
@@ -33,7 +34,6 @@ payload:
   - DOMAIN-SUFFIX,support-china.apple-support.akadns.net
   - DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
-
   
   # 以上域名已检查并排序
   
@@ -45,24 +45,10 @@ payload:
 
   - DOMAIN-SUFFIX,icloud-apple.cn
   - DOMAIN-SUFFIX,icloud-content.com
-  - DOMAIN-SUFFIX,icloud-isupport.com
+  - DOMAIN-SUFFIX,icloud.net
   - DOMAIN-SUFFIX,icloud-sandbox.com
-  - DOMAIN-SUFFIX,icloudads.net
-  - DOMAIN-SUFFIX,icloudapple.cn
-  - DOMAIN-SUFFIX,icloudbox.net
-  - DOMAIN-SUFFIX,icloudbrowser.net
-  - DOMAIN-SUFFIX,icloudhome.com
-  - DOMAIN-SUFFIX,icloudmail.net
-  - DOMAIN-SUFFIX,icloudmusic.net
-  - DOMAIN-SUFFIX,icloudnet.net
-  - DOMAIN-SUFFIX,icloudos.de
-  - DOMAIN-SUFFIX,icloudos.net
-  - DOMAIN-SUFFIX,icloudpay.net
-  - DOMAIN-SUFFIX,icloudsecure.net
-  - DOMAIN-SUFFIX,icloudsetup.com
-  - DOMAIN-SUFFIX,ios-icloud.com
+
   - DOMAIN-SUFFIX,myicloud.net
-  - DOMAIN-SUFFIX,mylcloud.net
   - DOMAIN-SUFFIX,mzstatic.com
 
   - DOMAIN-SUFFIX,store.apple.com.edgekey.net
