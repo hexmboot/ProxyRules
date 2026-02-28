@@ -172,6 +172,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,obsidian.md
   - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,obsidian.md
   # CN IP(面板开启区域绕过大陆之后的漏网之鱼)
 
   # 腾讯云
