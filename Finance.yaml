@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,longbridge.com
   - DOMAIN-SUFFIX,firstrade.com
+  - DOMAIN-SUFFIX,firstrade.net
   - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,interactivebrokers.com.hk
   - DOMAIN-SUFFIX,interactivebrokers.com.cn
