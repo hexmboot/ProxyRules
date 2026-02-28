@@ -1,6 +1,6 @@
 payload:
-  # pornhub
-  - DOMAIN-SUFFIX,pornhub.com
+  # Wechat
+  - DOMAIN-SUFFIX,mp.weixin.qq.com
   - DOMAIN-SUFFIX,phncdn.com
   
   #xvideo
