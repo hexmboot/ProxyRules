@@ -34,7 +34,7 @@ payload:
   - DOMAIN-SUFFIX,support-china.apple-support.akadns.net
   - DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
-  
+  - DOMAIN-SUFFIX,itunes-cdn-cn.itunes-apple.com.akadns.net
   # 以上域名已检查并排序
   
   - DOMAIN-SUFFIX,apple-icloud.cn
