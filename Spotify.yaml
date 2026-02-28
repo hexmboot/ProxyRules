@@ -1,4 +1,12 @@
 payload:
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotifycdn.com
+  - DOMAIN-SUFFIX,scdn.co
+
+  # 本地运行 clash mihomo 代理时可用
+  - PROCESS-NAME,Spotify
+  - PROCESS-NAME,Spotify.exe
+  
   - DOMAIN-SUFFIX,audio4-ak-spotify-com.akamaized.net
   - DOMAIN-SUFFIX,cdn-spotify-experiments.conductrics.com
   - DOMAIN-SUFFIX,heads-ak-spotify-com.akamaized.net
@@ -9,14 +17,11 @@ payload:
   - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
   - DOMAIN-SUFFIX,pscdn.co
-  - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,spoti.fi
   - DOMAIN-SUFFIX,spotify-com.akamaized.net
   - DOMAIN-SUFFIX,spotify-everywhere.com
   - DOMAIN-SUFFIX,spotify.app.link
-  - DOMAIN-SUFFIX,spotify.com
   - DOMAIN-SUFFIX,spotify.design
-  - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,spotifycdn.net
   - DOMAIN-SUFFIX,spotifycharts.com
   - DOMAIN-SUFFIX,spotifycodes.com
@@ -25,10 +30,5 @@ payload:
   - DOMAIN-SUFFIX,spotifynewsroom.jp
   - DOMAIN-SUFFIX,spotilocal.com
   - DOMAIN-SUFFIX,tospotify.com
-  - DOMAIN-KEYWORD,spotify
   - IP-CIDR,104.154.127.126/32
   - IP-CIDR,35.186.224.47/32
-  # === Spotify 客户端进程===
-  - PROCESS-NAME,com.spotify.music
-  - PROCESS-NAME,Spotify
-  - PROCESS-NAME,Spotify.exe
