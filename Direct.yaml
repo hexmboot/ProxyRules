@@ -156,7 +156,6 @@ payload:
   - DOMAIN-SUFFIX,msg.umengcloud.com
   - DOMAIN-SUFFIX,nishub1.10010.com
   - DOMAIN-SUFFIX,origin-a.akamaihd.net
-  - DOMAIN-SUFFIX,redirector.gvt1.com
   - DOMAIN-SUFFIX,rewards.hypixel.net
   - DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
   - DOMAIN-SUFFIX,st.dl.bscstorage.net
@@ -173,6 +172,8 @@ payload:
   - DOMAIN-SUFFIX,obsidian.md
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,obsidian.md
+  - DOMAIN-SUFFIX,immersivetranslate.com
+  - DOMAIN-SUFFIX,immersivetranslate.cn
   # CN IP(面板开启区域绕过大陆之后的漏网之鱼)
 
   # 腾讯云
