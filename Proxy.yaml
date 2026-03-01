@@ -3,3 +3,8 @@ payload:
   - DOMAIN-SUFFIX,immersivetranslate.cn
   - DOMAIN-SUFFIX,macked.app
   - DOMAIN-SUFFIX,openwrt.ai
+  - DOMAIN-SUFFIX,ubuntu.com
+  # Nodejs
+  - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN-SUFFIX,nodesource.com  
+  
