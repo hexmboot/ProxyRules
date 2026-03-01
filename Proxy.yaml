@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,macked.app
   - DOMAIN-SUFFIX,openwrt.ai
   - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,immersivetranslate.com
   # Nodejs
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,nodesource.com  
