@@ -1,8 +1,14 @@
 payload:
   #可以直连但是访问体验不好，改走代理的域名
+
+  # 直连网速慢
   - DOMAIN-SUFFIX,macked.app
+
+  # 直连时，路由器apt list update报错
   - DOMAIN-SUFFIX,openwrt.ai
+  
   - DOMAIN-SUFFIX,ubuntu.com
+  
   # Nodejs
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,nodesource.com
