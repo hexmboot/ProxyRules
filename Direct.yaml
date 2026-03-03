@@ -1,7 +1,7 @@
 payload:
   # CN Domain(面板开启区域绕过大陆之后的漏网之鱼)
-  - DOMAIN-SUFFIX,lanzoul.com
-  - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,immersivetranslate.com
+  - DOMAIN-SUFFIX,immersivetranslate.cn
   - DOMAIN-SUFFIX,tampermonkey.net
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,dell.com
