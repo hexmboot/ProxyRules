@@ -12,3 +12,6 @@ payload:
   # Nodejs
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,nodesource.com
+
+  # gfw
+  - DOMAIN-SUFFIX,nodesource.com
