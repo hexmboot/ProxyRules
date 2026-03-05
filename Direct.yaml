@@ -138,8 +138,8 @@ payload:
   - DOMAIN-SUFFIX,origin-a.akamaihd.net
   - DOMAIN-SUFFIX,rewards.hypixel.net
 
-
-  - DOMAIN-SUFFIX,tracking.miui.com
+  # 可以稳定连接的海外服务
+  - DOMAIN-SUFFIX,redhat.com
   - DOMAIN-SUFFIX,xz.pphimalayanrt.com
 
   - DOMAIN-SUFFIX,zhihu.com
