@@ -2,9 +2,14 @@ payload:
   # 能直连但体验不好
   # docker
   - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,docker.net
+
+  # Mac App 破解资源下载
+  - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,macked.app
 
-  # 直连时，路由器apt list update报错
+  # Kwrt
   - DOMAIN-SUFFIX,openwrt.ai
   
   - DOMAIN-SUFFIX,ubuntu.com
