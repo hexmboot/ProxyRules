@@ -4,7 +4,7 @@ payload:
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.com.cn
   - DOMAIN-SUFFIX,www.apple.com.cn
-
+  - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,apple-dns.net
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,cdn-apple.com
