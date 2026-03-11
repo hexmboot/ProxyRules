@@ -1,25 +1,34 @@
 payload:
   # 能直连但体验不好
-  # docker
+  ## docker
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.net
 
-  # Mac App 破解资源下载
+  ## Mac App 破解资源下载
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,macked.app
 
-  # Kwrt
+  ## Kwrt
   - DOMAIN-SUFFIX,openwrt.ai
   
+  ## OpenCode
+  - DOMAIN-SUFFIX,opencode.ai
+
+  ## ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
   
-  # Nodejs
+  ## Nodejs
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,nodesource.com
 
-  # royal TSX
+  ## royal TSX
   - DOMAIN-SUFFIX,royalapps.com
   - DOMAIN-SUFFIX,royalapps.onfastspring.com
 
   # 不能直连 gfw
+   ## discord
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discordapp.com,
+  - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discord.gg
