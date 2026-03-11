@@ -5,7 +5,9 @@ payload:
   - DOMAIN-SUFFIX,microsoft.net
   - DOMAIN-SUFFIX,microsoft365.com
   - DOMAIN-SUFFIX,aka.ms
-
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,msftauth.net
+  
   # === Office / Outlook / OneDrive ===
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,office.com
@@ -20,7 +22,7 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,sharepointonline.com
   - DOMAIN-SUFFIX,microsoftonline.com
-  - DOMAIN-SUFFIX,amcdn.msftauth.net
+
   # === Bing / Edge / MSN / Copilot ===
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.net
