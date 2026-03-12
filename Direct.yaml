@@ -136,7 +136,7 @@ payload:
   - DOMAIN-SUFFIX,msg.umeng.com
   - DOMAIN-SUFFIX,msg.umengcloud.com
   - DOMAIN-SUFFIX,origin-a.akamaihd.net
-  - DOMAIN-SUFFIX,rewards.hypixel.net
+  - DOMAIN-SUFFIX,oplist.org
 
   # 可以稳定连接的海外服务
   - DOMAIN-SUFFIX,redhat.com
