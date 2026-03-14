@@ -35,3 +35,49 @@ payload:
   - DOMAIN-SUFFIX,discordapp.com,
   - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,discord.gg
+
+  # 综合测试
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ippure.com
+  - DOMAIN-SUFFIX,browserscan.net
+  - DOMAIN-SUFFIX,ipapi.co
+  - DOMAIN-SUFFIX,browserleaks.com
+  
+  - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,db-ip.com
+  - DOMAIN-SUFFIX,freegeoip.app
+  - DOMAIN-SUFFIX,freegeoip.net
+  - DOMAIN-SUFFIX,freegeoip.app
+  - DOMAIN-SUFFIX,geoplugin.com
+  
+  # 测质量
+  - DOMAIN-SUFFIX,geolocation.com
+  - DOMAIN-SUFFIX,geocode.xyz
+  - DOMAIN-SUFFIX,geoipify.whoisxmlapi.com
+  - DOMAIN-SUFFIX,geoiplookup.io
+
+  - DOMAIN-SUFFIX,iplocation.com
+  - DOMAIN-SUFFIX,ipinfo.io
+
+  # DNS泄漏测试
+  - DOMAIN-SUFFIX,iplocation.net
+  - DOMAIN-SUFFIX,ipdata.co
+  - DOMAIN-SUFFIX,ipapi.co
+  - DOMAIN-SUFFIX,ipapi.com
+  - DOMAIN-SUFFIX,ip2location.com
+  - DOMAIN-SUFFIX,ipaddress.com
+  - DOMAIN-SUFFIX,ipaddress.io
+  - DOMAIN-SUFFIX,ipgeolocationapi.com
+  - DOMAIN-SUFFIX,ipgeolocate.io
+  - DOMAIN-SUFFIX,ipgeolocation.io
+  - DOMAIN-SUFFIX,ipstack.com
+  - DOMAIN-SUFFIX,viewdns.info
+  - DOMAIN-SUFFIX,whatismyipaddress.com
+  - DOMAIN-SUFFIX,whatismyip.com
+  - DOMAIN-SUFFIX,whoer.net
+  - DOMAIN-SUFFIX,xtools.wmflabs.org
+  # 测速
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,speedtest.com
+  - DOMAIN-SUFFIX,speedtest.org
