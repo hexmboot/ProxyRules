@@ -26,8 +26,11 @@ payload:
 
   # CN Domain(面板开启区域绕过大陆之后的漏网之鱼)
   - DOMAIN-SUFFIX,dns.cloudflare.com
-  - DOMAIN-SUFFIX,immersivetranslate.cn
 
+  # 沉浸式翻译
+  - DOMAIN-SUFFIX,immersivetranslate.cn
+  - DOMAIN-SUFFIX,immersivetranslate.com
+  
   # Github 镜像站
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   
