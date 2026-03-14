@@ -9,7 +9,7 @@ payload:
 
   # Chrome 标签页插件 bonjourr
   - DOMAIN-SUFFIX,bonjourr.fr
-  
+  - DOMAIN-SUFFIX,trakt.tv
   ## Mac App 破解资源下载
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,macked.app
