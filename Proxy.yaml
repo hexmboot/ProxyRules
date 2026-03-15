@@ -17,9 +17,6 @@ payload:
 
   ## Kwrt
   - DOMAIN-SUFFIX,openwrt.ai
-  
-  ## OpenCode
-  - DOMAIN-SUFFIX,opencode.ai
 
   ## ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
