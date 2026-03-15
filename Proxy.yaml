@@ -1,11 +1,12 @@
 payload:
   # 能直连但体验不好
+  - DOMAIN-SUFFIX,cloudflare.com
+     # 宾夕法尼亚州立大学 
+  - DOMAIN-SUFFIX,psu.edu
   ## docker
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.net
-
-  - DOMAIN-SUFFIX,dns.cloudflare.com
 
   # Chrome 标签页插件 bonjourr
   - DOMAIN-SUFFIX,bonjourr.fr
