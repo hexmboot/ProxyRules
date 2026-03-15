@@ -1,61 +1,31 @@
 payload:
-  # lan 默认直连，正常情况下lanIP不会被匹配，此处只是未了避免遗漏
-  - DOMAIN-SUFFIX,lan
-  - DOMAIN-SUFFIX,local
-  - DOMAIN-SUFFIX,localhost
-  - DOMAIN-SUFFIX,kwrt
-  - IP-CIDR,10.0.0.0/8
-  - IP-CIDR,192.168.0.0/16
-  - IP-CIDR,100.64.0.0/10
-  - IP-CIDR,127.0.0.0/8
-  - IP-CIDR,169.254.0.0/16
-  - IP-CIDR,172.16.0.0/12
-  - IP-CIDR,192.88.99.0/24
-  - IP-CIDR,198.18.0.0/15
-  - IP-CIDR,224.0.0.0/3
-  - IP-CIDR,0.0.0.0/8
-  - IP-CIDR6,::1/128
-  - IP-CIDR6,fc00::/7
-  - IP-CIDR6,fe80::/10
-  - IP-CIDR6,ff00::/8
-  - IP-CIDR6,2001::/32
-  - IP-CIDR6,2002::/16
+  # 1-开启“绕过大陆”功能后，国内域名不经过clash，遗漏的漏网之鱼放在这里，直连
 
-  # 开启“绕过大陆”功能后，国内域名不经过clash，遗漏的漏网之鱼放在这里，直连
-
-  # 没有被墙的海外站点并且稳定直连放在这里，如果不稳定，改放到 Proxy 组
-  
+  # 2-没有被墙的海外站点并且稳定直连放在这里，如果不稳定，改放到 Proxy 组
   ##一元机场订阅更新地址
   - DOMAIN-SUFFIX,sub3.smallstrawberry.com
-
+  - DOMAIN-SUFFIX,unsplash.com
   ##TMDB
   - DOMAIN-SUFFIX,themoviedb.org
-  
   # 沉浸式翻译
   - DOMAIN-SUFFIX,immersivetranslate.cn
   - DOMAIN-SUFFIX,immersivetranslate.com
-  
   # Github 镜像站
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
-
   - DOMAIN-SUFFIX,redhat.com
   - DOMAIN-SUFFIX,xz.pphimalayanrt.com
   - DOMAIN-SUFFIX,infuse.im
   # 字节跳动 Trae CN
   - DOMAIN-SUFFIX,bytegate-sg.byteintlapi.com
-
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,obsidian.md
-
   - DOMAIN-SUFFIX,iina.io
   - DOMAIN-SUFFIX,oplist.org
   - DOMAIN-SUFFIX,adguard.org
-
   # 腾讯云-香港
   - IP-CIDR,43.160.156.23/32
   - IP-CIDR,43.160.156.172/32
-  
   - DOMAIN-SUFFIX,dell.com
   - DOMAIN-SUFFIX,focusee.imobie.com
   - DOMAIN-SUFFIX,focusee.imobie-resource.com
@@ -435,4 +405,24 @@ payload:
   - IP-CIDR,221.226.128.146/32
   - IP-CIDR,223.252.192.0/19
   - IP-CIDR,205.204.96.0/19
-  # not CN IP（未被墙的海外IP走直连）
+  # lan 默认直连，正常情况下lanIP不会被匹配，此处只是未了避免遗漏
+  - DOMAIN-SUFFIX,lan
+  - DOMAIN-SUFFIX,local
+  - DOMAIN-SUFFIX,localhost
+  - DOMAIN-SUFFIX,kwrt
+  - IP-CIDR,10.0.0.0/8
+  - IP-CIDR,192.168.0.0/16
+  - IP-CIDR,100.64.0.0/10
+  - IP-CIDR,127.0.0.0/8
+  - IP-CIDR,169.254.0.0/16
+  - IP-CIDR,172.16.0.0/12
+  - IP-CIDR,192.88.99.0/24
+  - IP-CIDR,198.18.0.0/15
+  - IP-CIDR,224.0.0.0/3
+  - IP-CIDR,0.0.0.0/8
+  - IP-CIDR6,::1/128
+  - IP-CIDR6,fc00::/7
+  - IP-CIDR6,fe80::/10
+  - IP-CIDR6,ff00::/8
+  - IP-CIDR6,2001::/32
+  - IP-CIDR6,2002::/16
