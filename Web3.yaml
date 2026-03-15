@@ -1,7 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,bit.com
   - DOMAIN-SUFFIX,bitexch.io
-  
+  - DOMAIN-SUFFIX,polymarket.com
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,bybit.com
