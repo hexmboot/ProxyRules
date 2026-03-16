@@ -1,23 +1,32 @@
 payload:
   - DOMAIN-SUFFIX,apple
-  - DOMAIN-SUFFIX,apple.cn  
   - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,apple.com.cn
-  - DOMAIN-SUFFIX,www.apple.com.cn
+  - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,apple-dns.net
-  - DOMAIN-SUFFIX,aaplimg.com
-  - DOMAIN-SUFFIX,cdn-apple.com
-  - DOMAIN-SUFFIX,api.apple-cloudkit.com
-
+  # Apple 中国
+  - DOMAIN-SUFFIX,apple.cn  
+  - DOMAIN-SUFFIX,apple.com.cn
+  - DOMAIN-SUFFIX,icloud.com.cn 
+  - DOMAIN-SUFFIX,apple-icloud.cn
+  - DOMAIN-SUFFIX,appleicloud.cn 
+  - DOMAIN-SUFFIX,icloud-apple.cn
   # Mail 邮件
   - DOMAIN-SUFFIX,me.com
-  
   # iCloud
   - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX,icloud.com.cn 
-
-  # akadns.net for Apple CDN
+  - DOMAIN-SUFFIX,api.apple-cloudkit.com
+  - DOMAIN-SUFFIX,myicloud.net
+  - DOMAIN-SUFFIX,applemx-icloud.com
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,icloud.net
+  - DOMAIN-SUFFIX,icloud-sandbox.com
+  # Map
+  - DOMAIN-SUFFIX,apple-mapkit.com
+  # Apple CDN
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,mzstatic.com
+  # Akamai Technologies CDN for Apple
   - DOMAIN-SUFFIX,apple.com.akadns.net
   - DOMAIN-SUFFIX,me.com.akadns.net
   - DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
@@ -35,20 +44,4 @@ payload:
   - DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,itunes-cdn-cn.itunes-apple.com.akadns.net
-  # 以上域名已检查并排序
-  
-  - DOMAIN-SUFFIX,apple-icloud.cn
-  - DOMAIN-SUFFIX,apple-mapkit.com
-
-  - DOMAIN-SUFFIX,appleicloud.cn
-  - DOMAIN-SUFFIX,applemx-icloud.com
-
-  - DOMAIN-SUFFIX,icloud-apple.cn
-  - DOMAIN-SUFFIX,icloud-content.com
-  - DOMAIN-SUFFIX,icloud.net
-  - DOMAIN-SUFFIX,icloud-sandbox.com
-
-  - DOMAIN-SUFFIX,myicloud.net
-  - DOMAIN-SUFFIX,mzstatic.com
-
   - DOMAIN-SUFFIX,store.apple.com.edgekey.net
