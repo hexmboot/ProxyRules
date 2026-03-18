@@ -23,7 +23,7 @@ payload:
 
     ## ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
-  
+  - IP-CIDR,185.125.190.57,no-resolve
     ## Nodejs
   - DOMAIN-SUFFIX,npmjs.com 
   - DOMAIN-SUFFIX,npmjs.org
