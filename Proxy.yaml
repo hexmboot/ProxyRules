@@ -1,44 +1,44 @@
 payload:
   # 能直连但体验不好
   - DOMAIN-SUFFIX,cloudflare.com
-     # 宾夕法尼亚州立大学 
+    # 宾夕法尼亚州立大学 
   - DOMAIN-SUFFIX,psu.edu
   - DOMAIN-SUFFIX,unsplash.com
-  ## docker
+    # docker
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.net
 
-  # Chrome 标签页插件 bonjourr
+    # Chrome 标签页插件 bonjourr
   - DOMAIN-SUFFIX,bonjourr.fr
   - DOMAIN-SUFFIX,trakt.tv
-  ## Mac App 破解资源下载
+    # Mac App 破解资源下载
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,macked.app
 
-  ## Kwrt
+    ## Kwrt
   - DOMAIN-SUFFIX,openwrt.ai
 
-  ## ubuntu
+    ## ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
   
-  ## Nodejs
+    ## Nodejs
   - DOMAIN-SUFFIX,npmjs.com 
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,nodesource.com
 
-  ## royal TSX
+    ## royal TSX
   - DOMAIN-SUFFIX,royalapps.com
   - DOMAIN-SUFFIX,royalapps.onfastspring.com
 
   # 不能直连，也就是被墙的
-   ## discord
+    ## discord
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,discordapp.com,
   - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,discord.gg
 
-  # 综合测试
+    # 综合测试
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ippure.com
   - DOMAIN-SUFFIX,browserscan.net
@@ -52,7 +52,7 @@ payload:
   - DOMAIN-SUFFIX,freegeoip.app
   - DOMAIN-SUFFIX,geoplugin.com
   
-  # 测质量
+    # 测质量
   - DOMAIN-SUFFIX,geolocation.com
   - DOMAIN-SUFFIX,geocode.xyz
   - DOMAIN-SUFFIX,geoipify.whoisxmlapi.com
@@ -61,7 +61,7 @@ payload:
   - DOMAIN-SUFFIX,iplocation.com
   - DOMAIN-SUFFIX,ipinfo.io
 
-  # DNS泄漏测试
+    # DNS泄漏测试
   - DOMAIN-SUFFIX,iplocation.net
   - DOMAIN-SUFFIX,ipdata.co
   - DOMAIN-SUFFIX,ipapi.co
@@ -78,27 +78,24 @@ payload:
   - DOMAIN-SUFFIX,whatismyip.com
   - DOMAIN-SUFFIX,whoer.net
   - DOMAIN-SUFFIX,xtools.wmflabs.org
-  # 测速
+    # 测速
   - DOMAIN-SUFFIX,fast.com
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,speedtest.com
   - DOMAIN-SUFFIX,speedtest.org
-  # Cloud Server
+    # Cloud Server
   - DOMAIN-SUFFIX,oracle.com
   
-  # Cloud Hosting
-  # 免费版
+    # Cloud Hosting
+    # 免费版
   - DOMAIN-SUFFIX,wasmer.io
   - DOMAIN-SUFFIX,galaxycloud.app
 
-  payload:
-  # > Duolingo
-  # - USER-AGENT,Duolingo*
   - DOMAIN-KEYWORD,duolingo
   - DOMAIN-SUFFIX,duolingo.cn
   - DOMAIN-SUFFIX,duolingo.com
   
-  # > Line
+    # > Line
   - DOMAIN-SUFFIX,lin.ee
   - DOMAIN-SUFFIX,line.me
   - DOMAIN-SUFFIX,line.naver.jp
@@ -107,24 +104,21 @@ payload:
   - DOMAIN-SUFFIX,line-scdn.net
   - DOMAIN-SUFFIX,nhncorp.jp
 
-  # > Riot Games
+    # > Riot Games
   - DOMAIN-SUFFIX,riotcdn.net
   - DOMAIN-SUFFIX,wr.pvp.net
   - DOMAIN-SUFFIX,riotgames.com
 
-  # > Spark
+    # > Spark
   - DOMAIN-SUFFIX,api.amplitude.com
   - DOMAIN-SUFFIX,app.smartmailcloud.com
   - DOMAIN-SUFFIX,gate.hockeyapp.net
   - DOMAIN-SUFFIX,smartmailcloud.com
   
-  # > Tesla
-  - DOMAIN-KEYWORD,tesla
 
-  # > Zooba
-  # - USER-AGENT,battleroyale*
 
-  # > Top blocked sites
+
+    # > Top blocked sites
   - DOMAIN-SUFFIX,2o7.net
   - DOMAIN-SUFFIX,4everProxy.com
   - DOMAIN-SUFFIX,4shared.com
@@ -483,8 +477,7 @@ payload:
   - DOMAIN-SUFFIX,readingtimes.com.tw
   - DOMAIN-SUFFIX,readmoo.com
   - DOMAIN-SUFFIX,recaptcha.net
-  - DOMAIN-SUFFIX,reddit.com
-  - DOMAIN-SUFFIX,redditmedia.com
+
   - DOMAIN-SUFFIX,reuters.com
   - DOMAIN-SUFFIX,rfi.fr
   - DOMAIN-SUFFIX,rileyguide.com
@@ -717,7 +710,7 @@ payload:
   - DOMAIN-SUFFIX,zeutch.com
   - DOMAIN-SUFFIX,zynamics.com
 
-  # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
+
   # - USER-AGENT,WhatsApp*
 
   - DOMAIN-KEYWORD,appledaily
@@ -730,6 +723,7 @@ payload:
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-KEYWORD,google
+  
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,abc.xyz
@@ -776,20 +770,20 @@ payload:
   - DOMAIN-SUFFIX,webmproject.org
   - DOMAIN-SUFFIX,webrtc.org
 
-  # > V2EX
+    # > V2EX
   - DOMAIN-SUFFIX,v2ex.com
   
   - DOMAIN-KEYWORD,dlercloud
 
-  # > VikACG
+    # > VikACG
   - DOMAIN-SUFFIX,vikacg.com
   - DOMAIN-SUFFIX,picjs.xyz
 
-  # > exception
+    # > exception
   - DOMAIN-SUFFIX,wheel-size.cn
   - DOMAIN-SUFFIX,chalungu.cn
 
-  # > Amazon
+    # > Amazon
   - IP-CIDR,13.32.0.0/16,no-resolve
   - IP-CIDR,13.33.0.0/16,no-resolve
   - IP-CIDR,13.35.0.0/17,no-resolve
@@ -807,26 +801,7 @@ payload:
   - IP-CIDR,54.230.156.0/22,no-resolve
   - IP-CIDR,54.93.0.0/16,no-resolve
 
-  # > Facebook
-  - IP-CIDR,103.4.96.0/22,no-resolve
-  - IP-CIDR,129.134.0.0/17,no-resolve
-  - IP-CIDR,157.240.0.0/17,no-resolve
-  - IP-CIDR,173.252.64.0/19,no-resolve
-  - IP-CIDR,173.252.96.0/19,no-resolve
-  - IP-CIDR,179.60.192.0/22,no-resolve
-  - IP-CIDR,185.60.216.0/22,no-resolve
-  - IP-CIDR,204.15.20.0/22,no-resolve
-  - IP-CIDR,31.13.24.0/21,no-resolve
-  - IP-CIDR,31.13.64.0/18,no-resolve
-  - IP-CIDR,45.64.40.0/22,no-resolve
-  - IP-CIDR,66.220.144.0/20,no-resolve
-  - IP-CIDR,69.171.224.0/19,no-resolve
-  - IP-CIDR,69.63.176.0/20,no-resolve
-  - IP-CIDR,74.119.76.0/22,no-resolve
-
-
-
-  # > Kakao Talk
+    # > Kakao Talk
   - IP-CIDR,1.201.0.0/24,no-resolve
   - IP-CIDR,103.246.56.0/22,no-resolve
   - IP-CIDR,103.27.148.0/22,no-resolve
@@ -834,7 +809,7 @@ payload:
   - IP-CIDR,113.61.104.0/22,no-resolve
   - IP-CIDR,27.0.236.0/22,no-resolve
 
-  # > LINE
+    # > LINE
   - IP-CIDR,103.2.28.0/22,no-resolve
   - IP-CIDR,119.235.224.0/21,no-resolve
   - IP-CIDR,119.235.232.0/23,no-resolve
@@ -849,15 +824,14 @@ payload:
   - IP-CIDR,203.174.66.64/26,no-resolve
   - IP-CIDR,203.174.77.0/24,no-resolve
 
-  # > Potato Chat
+    # > Potato Chat
   - IP-CIDR,13.251.24.157/24,no-resolve
   - IP-CIDR,13.251.41.203/24,no-resolve
   - IP-CIDR,17.252.156.147/24,no-resolve
   - IP-CIDR,17.252.157.26/24,no-resolve
 
-  # > SoftLayer
+    # > SoftLayer
   - IP-CIDR,74.86.0.0/16,no-resolve
   - IP-CIDR,75.126.0.0/16,no-resolve
   - IP-CIDR,174.37.0.0/16,no-resolve
   - IP-CIDR,208.43.0.0/16,no-resolve
-
