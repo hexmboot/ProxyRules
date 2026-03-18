@@ -24,8 +24,8 @@ payload:
   - DOMAIN-SUFFIX,oplist.org
   - DOMAIN-SUFFIX,adguard.org
   # 腾讯云-香港
-  - IP-CIDR,43.160.156.23/32
-  - IP-CIDR,43.160.156.172/32
+  - IP-CIDR,43.160.156.23/32,no-resolve
+  - IP-CIDR,43.160.156.172/32,no-resolve
   - DOMAIN-SUFFIX,dell.com
   - DOMAIN-SUFFIX,focusee.imobie.com
   - DOMAIN-SUFFIX,focusee.imobie-resource.com
@@ -180,7 +180,7 @@ payload:
   - IP-CIDR,41.223.119.0/24
   - IP-CIDR,42.186.0.0/16
 
-  - IP-CIDR,223.5.5.5/32,,no-resolve
+  - IP-CIDR,223.5.5.5/32,no-resolve
   # Aliyun HK
   - IP-CIDR,43.175.230.135/32,no-resolve
   - IP-CIDR,43.175.230.4/32,no-resolve
