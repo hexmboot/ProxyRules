@@ -5,7 +5,11 @@ payload:
   - IP-CIDR,1.0.0.1/32,no-resolve
     # 宾夕法尼亚州立大学 
   - DOMAIN-SUFFIX,psu.edu
+    
+    # unsplash
   - DOMAIN-SUFFIX,unsplash.com
+  - DOMAIN-SUFFIX,imgix.com
+  
     # docker
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
@@ -13,8 +17,10 @@ payload:
     # Firefox
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,mozilla.com
+  
     # Chrome 标签页插件 bonjourr
   - DOMAIN-SUFFIX,bonjourr.fr
+  
   - DOMAIN-SUFFIX,trakt.tv
     # Mac App 破解资源下载
   - DOMAIN-SUFFIX,appstorrent.ru
