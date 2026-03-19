@@ -10,14 +10,17 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.net
-
+    # Firefox
+  - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,mozilla.com
     # Chrome 标签页插件 bonjourr
   - DOMAIN-SUFFIX,bonjourr.fr
   - DOMAIN-SUFFIX,trakt.tv
     # Mac App 破解资源下载
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,macked.app
-
+    # 密码管理器
+  - DOMAIN-SUFFIX,bitwarden.com
     ## Kwrt
   - DOMAIN-SUFFIX,openwrt.ai
 
@@ -28,11 +31,12 @@ payload:
   - DOMAIN-SUFFIX,npmjs.com 
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,nodesource.com
-
+  - DOMAIN-SUFFIX,asusrouter.com
+  - DOMAIN-SUFFIX,opencodecn.com
     ## royal TSX
   - DOMAIN-SUFFIX,royalapps.com
   - DOMAIN-SUFFIX,royalapps.onfastspring.com
-
+  - DOMAIN-SUFFIX,wiki.metacubex.one
   # 不能直连，也就是被墙的
     ## discord
   - DOMAIN-SUFFIX,discord.com
@@ -46,7 +50,7 @@ payload:
   - DOMAIN-SUFFIX,browserscan.net
   - DOMAIN-SUFFIX,ipapi.co
   - DOMAIN-SUFFIX,browserleaks.com
-  
+  - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,dnsleaktest.com
   - DOMAIN-SUFFIX,db-ip.com
   - DOMAIN-SUFFIX,freegeoip.app
