@@ -25,13 +25,14 @@ payload:
   - DOMAIN-SUFFIX,bonjourr.fr
     # 一元机场帐户后台
   - DOMAIN-SUFFIX,xn--4gq62f52gdss.ink
-  
+  - DOMAIN-SUFFIX,icon.horse
   - DOMAIN-SUFFIX,trakt.tv
     # Mac App 破解资源下载
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,macked.app
     # 密码管理器
   - DOMAIN-SUFFIX,bitwarden.com
+  - DOMAIN-SUFFIX,bitwarden.net
     ## Kwrt
   - DOMAIN-SUFFIX,openwrt.ai
   - DOMAIN-SUFFIX,prompts.chat
