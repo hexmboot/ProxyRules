@@ -23,6 +23,8 @@ payload:
   
     # Chrome 标签页插件 bonjourr
   - DOMAIN-SUFFIX,bonjourr.fr
+    # 一元机场帐户后台
+  - DOMAIN-SUFFIX,xn--4gq62f52gdss.ink
   
   - DOMAIN-SUFFIX,trakt.tv
     # Mac App 破解资源下载
@@ -32,7 +34,7 @@ payload:
   - DOMAIN-SUFFIX,bitwarden.com
     ## Kwrt
   - DOMAIN-SUFFIX,openwrt.ai
-
+  - DOMAIN-SUFFIX,prompts.chat
     ## ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
   - IP-CIDR,185.125.190.57,no-resolve
