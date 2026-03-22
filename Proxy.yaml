@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,docker.net
-  
+
     # Firefox
   - DOMAIN-SUFFIX,firefox.com
   - DOMAIN-SUFFIX,mozilla.com
@@ -104,10 +104,7 @@ payload:
     # 免费版
   - DOMAIN-SUFFIX,wasmer.io
   - DOMAIN-SUFFIX,galaxycloud.app
-
-  - DOMAIN-KEYWORD,duolingo
-  - DOMAIN-SUFFIX,duolingo.cn
-  - DOMAIN-SUFFIX,duolingo.com
+  - DOMAIN-SUFFIX,huggingface.co
   
     # > Riot Games
   - DOMAIN-SUFFIX,riotcdn.net
