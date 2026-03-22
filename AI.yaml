@@ -27,3 +27,6 @@ payload:
   
   # Nvidia
   - DOMAIN-SUFFIX,nvidia.com
+  
+  # MiniMax 国际版
+  - DOMAIN-SUFFIX,minimax.io
