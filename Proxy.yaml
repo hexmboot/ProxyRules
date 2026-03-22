@@ -45,7 +45,7 @@ payload:
     ## royal TSX
   - DOMAIN-SUFFIX,royalapps.com
   - DOMAIN-SUFFIX,royalapps.onfastspring.com
-
+  - DOMAIN-SUFFIX,adspower.net
   
   # 不能直连，也就是被墙的
     # 机器人验证
