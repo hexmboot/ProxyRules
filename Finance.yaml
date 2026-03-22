@@ -31,8 +31,12 @@ payload:
   - DOMAIN-SUFFIX,fubonbank.com.hk
   - DOMAIN-SUFFIX,publicbank.com.hk
   - DOMAIN-SUFFIX,shacombank.com.hk
+  
+    # ZA Bank
   - DOMAIN-SUFFIX,zabank.hk
   - DOMAIN-SUFFIX,zabank.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  
   - DOMAIN-SUFFIX,livibank.com
   
   - DOMAIN-SUFFIX,welab.bank
