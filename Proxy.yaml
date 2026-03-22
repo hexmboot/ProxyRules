@@ -5,12 +5,7 @@ payload:
   - IP-CIDR,1.0.0.1/32,no-resolve
     # 宾夕法尼亚州立大学 
   - DOMAIN-SUFFIX,psu.edu
-    # 机器人验证
-  - DOMAIN-SUFFIX,hcaptcha.com
-    # unsplash
-  - DOMAIN-SUFFIX,unsplash.com
-  - DOMAIN-SUFFIX,imgix.com
-  
+
     # docker
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
@@ -39,18 +34,27 @@ payload:
     ## ubuntu
   - DOMAIN-SUFFIX,ubuntu.com
   - IP-CIDR,185.125.190.57,no-resolve
+  
     ## Nodejs
   - DOMAIN-SUFFIX,npmjs.com 
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,nodesource.com
   - DOMAIN-SUFFIX,asusrouter.com
   - DOMAIN-SUFFIX,opencodecn.com
+  
     ## royal TSX
   - DOMAIN-SUFFIX,royalapps.com
   - DOMAIN-SUFFIX,royalapps.onfastspring.com
-  - DOMAIN-SUFFIX,wiki.metacubex.one
+
+  
   # 不能直连，也就是被墙的
-    # 综合测试
+    # 机器人验证
+  - DOMAIN-SUFFIX,hcaptcha.com
+    # unsplash
+  - DOMAIN-SUFFIX,unsplash.com
+  - DOMAIN-SUFFIX,imgix.com
+    # IP综合测试
+  - DOMAIN-SUFFIX,skk.moe
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ippure.com
   - DOMAIN-SUFFIX,browserscan.net
@@ -62,8 +66,7 @@ payload:
   - DOMAIN-SUFFIX,freegeoip.app
   - DOMAIN-SUFFIX,freegeoip.net
   - DOMAIN-SUFFIX,geoplugin.com
-  
-    # 测质量
+  - DOMAIN-SUFFIX,wiki.metacubex.one  
   - DOMAIN-SUFFIX,geolocation.com
   - DOMAIN-SUFFIX,geocode.xyz
   - DOMAIN-SUFFIX,geoipify.whoisxmlapi.com
