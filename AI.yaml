@@ -18,6 +18,8 @@ payload:
   
   # OpenCode Zen
   - DOMAIN-SUFFIX,opencode.ai
+  - DOMAIN-SUFFIX,mcp.context7.com
+  - DOMAIN-SUFFIX,mcp.exa.ai
   # AI 模型的开放源数据库
   - DOMAIN-SUFFIX,models.dev
 
