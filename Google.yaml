@@ -1,16 +1,16 @@
 payload:
-  # --- 核心域名 ---
-  - DOMAIN-SUFFIX,google.com
-  - DOMAIN-SUFFIX,google.dev
+    # --- 核心域名 ---
   - DOMAIN-SUFFIX,goog
   - DOMAIN-SUFFIX,google
-  - DOMAIN-SUFFIX,gmail.com
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,google.dev
+
     # --- 核心IP ---
-  - IP-CIDR,8.8.8.8/32
-  - IP-CIDR,8.8.4.4/32
-  - IP-CIDR,64.233.187.188/32
-  - IP-CIDR,64.233.160.0/19
-  - IP-CIDR,108.177.125.188/32
+  - IP-CIDR,8.8.8.8/32,no-resolve
+  - IP-CIDR,8.8.4.4/32,no-resolve
+  - IP-CIDR,64.233.187.188/32,no-resolve
+  - IP-CIDR,64.233.160.0/19,no-resolve
+  - IP-CIDR,108.177.125.188/32,no-resolve
   - IP-CIDR,173.194.0.0/16,no-resolve
   - IP-CIDR,74.125.0.0/16,no-resolve
   # Gemini CLI
@@ -21,8 +21,11 @@ payload:
   - DOMAIN-SUFFIX,2mdn-cn.net
   
   - DOMAIN-SUFFIX,admob-cn.com
-  
-  # Antigravity
+
+    # Gmail
+  - DOMAIN-SUFFIX,gmail.com
+    
+    # Antigravity
   - DOMAIN-SUFFIX,antigravity.google 
   - DOMAIN-SUFFIX,antigravity-auto-updater-974169037036.us-central1.run.app
 
@@ -128,6 +131,10 @@ payload:
   - DOMAIN-SUFFIX,www.destinationurl.com
   - DOMAIN-SUFFIX,www.pxcc.com
   - DOMAIN-SUFFIX,xn--flw351e.com
-
+  - DOMAIN-SUFFIX,chrome.com
+  - DOMAIN-SUFFIX,chromecast.com
+  - DOMAIN-SUFFIX,chromercise.com
+  - DOMAIN-SUFFIX,chromestatus.com
+  - DOMAIN-SUFFIX,chromium.org
   # google with fastly
   - DOMAIN-SUFFIX,google-ohttp-relay-safebrowsing.fastly-edge.com
