@@ -16,7 +16,16 @@ payload:
   
   - DOMAIN-SUFFIX,fastbull.com
   
-  # 银行
+    # 银行
+    ###### ZA Group
+  - DOMAIN-SUFFIX,za.group
+  - DOMAIN-SUFFIX,bank.za.group
+  - DOMAIN-SUFFIX,broker.za.group
+  
+    ###### 汇立银行
+  - DOMAIN-SUFFIX,welab.bank
+  - DOMAIN-SUFFIX,wapi-sit.dev-wlab.com
+  
   - DOMAIN-SUFFIX,hsbc.com.hk
   - DOMAIN-SUFFIX,bochk.com
   - DOMAIN-SUFFIX,bankofchina.com.hk
@@ -32,16 +41,7 @@ payload:
   - DOMAIN-SUFFIX,publicbank.com.hk
   - DOMAIN-SUFFIX,shacombank.com.hk
   
-    # ZA Group
-  - DOMAIN-SUFFIX,za.group
-  - DOMAIN-SUFFIX,bank.za.group
-  - DOMAIN-SUFFIX,broker.za.group
-  
   - DOMAIN-SUFFIX,livibank.com
-  
-  - DOMAIN-SUFFIX,welab.bank
-  - DOMAIN-SUFFIX,welab.com
-  - DOMAIN-SUFFIX,wapi-sit.dev-wlab.com
   
   - DOMAIN-SUFFIX,antbank.hk
   - DOMAIN-SUFFIX,alipayhk.com
@@ -49,13 +49,18 @@ payload:
   - DOMAIN-SUFFIX,fusionbank.com.hk
   - DOMAIN-SUFFIX,airstarbank.com
   - DOMAIN-SUFFIX,airstarbank.com.hk
+  
   # 财经资讯
   - DOMAIN-SUFFIX,seekingalpha.com
-
+  - DOMAIN-SUFFIX,investing.com
+  # Web3
   - DOMAIN-SUFFIX,bit.com
   - DOMAIN-SUFFIX,bitexch.io
   - DOMAIN-SUFFIX,polymarket.com
+
+  ######## 币安
   - DOMAIN-SUFFIX,binance.com
+  
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-SUFFIX,bitget.com
