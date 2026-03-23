@@ -1,5 +1,5 @@
 payload:
-  # 能直连但体验不好
+  # ==    能直连但体验不好    == #
   - DOMAIN-SUFFIX,cloudflare.com
   - IP-CIDR,1.1.1.1/32,no-resolve
   - IP-CIDR,1.0.0.1/32,no-resolve
@@ -118,7 +118,7 @@ payload:
   - DOMAIN-SUFFIX,app.smartmailcloud.com
   - DOMAIN-SUFFIX,gate.hockeyapp.net
   - DOMAIN-SUFFIX,smartmailcloud.com
-
+  - DOMAIN-SUFFIX,knock.app
     # > 机场(订阅)
     # 一元机场
   - DOMAIN-SUFFIX,xn--1-q07a56pdss.org
