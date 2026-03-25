@@ -1,6 +1,13 @@
 payload:
-  # ==    能直连但体验不好    == #
-    ###### CF
+    # Github
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubcopilot.com
+  
+    # CF
   - DOMAIN-SUFFIX,cloudflare.com
   - IP-CIDR,1.1.1.1/32,no-resolve
   - IP-CIDR,1.0.0.1/32,no-resolve
