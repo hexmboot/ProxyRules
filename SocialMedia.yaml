@@ -60,7 +60,6 @@ payload:
   - DOMAIN-SUFFIX,discordapp.com,
   - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,discord.gg
-  - DOMAIN-SUFFIX,grep.app
 
       # Telegram 
   - IP-CIDR,5.28.195.2/32,no-resolve
