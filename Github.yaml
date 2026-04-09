@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,github.io
   - DOMAIN-SUFFIX,githubapp.com
   - DOMAIN-SUFFIX,githubcopilot.com
+  - DOMAIN-SUFFIX,ghcr.io
