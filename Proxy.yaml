@@ -46,7 +46,7 @@ payload:
   - DOMAIN-SUFFIX,nodesource.com
   - DOMAIN-SUFFIX,asusrouter.com
   - DOMAIN-SUFFIX,opencodecn.com
-  
+  - DOMAIN-SUFFIX,npmmirror.com
     ## royal TSX
   - DOMAIN-SUFFIX,royalapps.com
   - DOMAIN-SUFFIX,royalapps.onfastspring.com
