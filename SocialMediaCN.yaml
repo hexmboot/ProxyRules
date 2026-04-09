@@ -1,7 +1,7 @@
 payload:
   # Wechat
   - DOMAIN-SUFFIX,mp.weixin.qq.com
-  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,xueqiu.com
   
   #xvideo
   - DOMAIN-SUFFIX,xvideo.com
